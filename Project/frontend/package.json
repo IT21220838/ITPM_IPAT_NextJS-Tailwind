@@ -34,4 +34,5 @@
     "@types/react-highlight-words": "^0.16.7",
     "file-loader": "^6.2.0"
   }
+  
 }
